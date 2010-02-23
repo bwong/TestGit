@@ -51,6 +51,9 @@
 		activeBuildConfigurationName = Debug;
 		activeExecutable = 1D6E9975111CCF9200661416 /* TestGit */;
 		activeTarget = 1D6058900D05DD3D006BFB54 /* TestGit */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* TestGit */,
+		);
 		codeSenseManager = 1D6E9986111CCFB200661416 /* Code sense */;
 		executables = (
 			1D6E9975111CCF9200661416 /* TestGit */,
@@ -63,7 +66,7 @@
 					20,
 					341,
 					20,
-					48.16259765625,
+					48,
 					43,
 					43,
 					20,
@@ -78,8 +81,8 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 287100818;
-			PBXWorkspaceStateSaveDate = 287100818;
+			PBXPerProjectTemplateStateSaveDate = 287829252;
+			PBXWorkspaceStateSaveDate = 287829252;
 		};
 		sourceControlManager = 1D6E9985111CCFB200661416 /* Source Control */;
 		userBuildSettings = {
